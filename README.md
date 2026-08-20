@@ -49,5 +49,5 @@ The models were evaluated using Mean Absolute Error (MAE), where lower MAE indic
 
 This project was developed with guidance from Kaggle Learn's
 Intro to Machine Learning course. To reproduce the
-project, download the dataset from Kaggle and place 'train.csv'
+project, download the dataset from there and place 'train.csv'
 in the project directory.
