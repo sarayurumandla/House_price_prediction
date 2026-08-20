@@ -5,7 +5,7 @@ Decision Tree and Random Forest regression models.
 
 ## Project Overview
 
-This project uses the Iowa house price dataset to predict `SalePrice`
+This project uses the Iowa house price dataset to predict SalePrice
 based on features including:
 
 - Lot area
@@ -21,7 +21,7 @@ based on features including:
 ### Decision Tree Regressor
 
 I first trained a Decision Tree and experimented with different
-`max_leaf_nodes` values to find the tree size with the lowest
+max_leaf_nodes values to find the tree size with the lowest
 validation Mean Absolute Error (MAE).
 
 ### Random Forest Regressor
@@ -48,4 +48,6 @@ The models were evaluated using Mean Absolute Error (MAE), where lower MAE indic
 ## Acknowledgements
 
 This project was developed with guidance from Kaggle Learn's
-Intro to Machine Learning course.
+Intro to Machine Learning course. To reproduce the
+project, download the dataset from Kaggle and place 'train.csv'
+in the project directory.
